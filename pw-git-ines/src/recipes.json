@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Bolo de Chocolate Proteico",
+        "ingredients": [
+            "4 ovos",
+            "200ml óleo",
+            "200ml leite",
+            "400g farinha",
+            "400g açúcar",
+            "1 colher chá de fermento",
+            "125g de chocolate em pó",
+            "50g de whey neutra"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Bolo de Laranja",
+        "ingredients": [
+            "4 ovos",
+            "1 chávena (chá) de óleo",
+            "1 chávena de açúcar bem cheia",
+            "Raspas de laranja",
+            "Suco de laranja",
+            "2 chávenas de farinha de trigo bem cheias",
+            "1 colher (sopa) de fermento bem cheia"
+        ]
+    }
+]
